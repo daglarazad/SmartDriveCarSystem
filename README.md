@@ -4,4 +4,4 @@
 - SİNAN KAYA
 - MİTHAT EMRE POLAT
 - CİVAN KELBAŞ
-Worked on GUI design
+ENES ÇABUK    Worked on GUI design
