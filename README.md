@@ -6,3 +6,4 @@
 - CİVAN KELBAŞ
 
 -ENES ÇABUK    Worked on GUI design
+-MİTHAT EMRE POLAT worked on databse operations
